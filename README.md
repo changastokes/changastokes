@@ -2,6 +2,7 @@ Hi, I am Changa Stokes - 👋 Hi, I’m @changastokes
 - I’m interested in Web Devepolment 
 - 🌱 I’m currently learning Java
 - 📫 How to reach me changastokes@gmail.com
+- Residing in Atlanta Ga
 
 <!---
 changastokes/changastokes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
